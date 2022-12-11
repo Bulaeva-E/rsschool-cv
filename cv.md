@@ -12,7 +12,7 @@
 
 ##Skills
 •	Python (basic)
-•	Git
+•	Git, GitHub
 •	Adobe Photoshop, Illustrator, InDesign
 
 ##Code example
