@@ -6,6 +6,7 @@
 •	Phone: +7-916-852-79-66
 •	Email: elena.bulaeva@gmail.com
 •	GitHub: Bulaeva-E
+•	telegramm
 
 ##About me
 -
